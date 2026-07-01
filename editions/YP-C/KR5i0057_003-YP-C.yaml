@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0057/YP-C/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 序
+  hash: sha256:6f47a97d45b03124f1d03c53deceed3aa01689a5e20ba55b84a8a76683bac1fd
+  markers:
+  - {type: page-break, offset: 0, content: '', id: CK-KZ_KR5i0057_02p009b}
+metadata:
+  title: 東園語錄
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+  date: '2015-08-29 17:53:59.367453'
+  source:
+    repository: kanripo
+    path: KR5i0057/KR5i0057_003.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:7c20673661f3184512758296c0b9f7d24444c91f57c50f540a92c77de2f60280

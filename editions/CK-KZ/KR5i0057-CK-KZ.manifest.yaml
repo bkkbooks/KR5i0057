@@ -1,0 +1,85 @@
+canonical_identifier: bkk:krp/KR5i0057/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5i0057/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 東園語錄
+  date: '2015-08-29 17:53:59.367453'
+  source:
+    repository: kanripo
+    path: KR5i0057
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0057_001-CK-KZ.yaml, hash: 'sha256:09ddd0ad08e40d0aac77e3f12cc48c6cbdbc002774a3ac82fad2a72733f039af'}
+  - {seq: 2, filename: KR5i0057_002-CK-KZ.yaml, hash: 'sha256:b9902ad9a840ebf5a28f877d0ec8b63153c9ee1c48ab5bd126700122e4925bff'}
+  - {seq: 3, filename: KR5i0057_003-CK-KZ.yaml, hash: 'sha256:f70b3d0410ea3f5fb903ee3ea23b9cbf7f40e7557bdd175a840af70f7c003262'}
+  - {seq: 4, filename: KR5i0057_004-CK-KZ.yaml, hash: 'sha256:0e60b4dc205265e5923385b82ad3cf83d877ed1e76bbbd4b1de7d34cb6dadd17'}
+  - {seq: 5, filename: KR5i0057_005-CK-KZ.yaml, hash: 'sha256:52813dc146c7c1a6e5e9f7b4d9407bfcf6295f52c37362a324bf0927d6848d69'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0057_001-CK-KZ.markers.yaml, hash: 'sha256:e0b3de263ee4c8004c7585273a1c4aa5b98a040531cf8813ee805554a3cc60a6'}
+  - {seq: 2, role: markers, filename: assets/KR5i0057_002-CK-KZ.markers.yaml, hash: 'sha256:79588b5c7826b81eb6793785acc49829951edfbec3200c89b5ea7ac107fe0feb'}
+  - {seq: 3, role: markers, filename: assets/KR5i0057_003-CK-KZ.markers.yaml, hash: 'sha256:986bc697847b0a200f8c37aa10b4c43da11668595eb26cf401a990b78423dba6'}
+  - {seq: 4, role: markers, filename: assets/KR5i0057_004-CK-KZ.markers.yaml, hash: 'sha256:ec66f163e065dd03d0706ca7516a513f7d1c55b4ccc236834b44ed0bfa62bb1f'}
+  - {seq: 5, role: markers, filename: assets/KR5i0057_005-CK-KZ.markers.yaml, hash: 'sha256:9338f06669a9adadd671b9c68ac9084f7cdf6556731cafb74f5af7187ae482f2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0057_01p001a
+    span:
+    - body
+    - 0
+    - 183
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-KZ_KR5i0057_02p001a
+    span:
+    - body
+    - 0
+    - 2492
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: CK-KZ_KR5i0057_03p001a
+    span:
+    - body
+    - 0
+    - 4
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: CK-KZ_KR5i0057_04p001a
+    span:
+    - body
+    - 0
+    - 15978
+  label: juan 004
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: CK-KZ_KR5i0057_05p001a
+    span:
+    - body
+    - 0
+    - 15333
+  label: juan 005
+  type: section
+  level: 1
+hash: sha256:1b07d54a0275ec0702829de26e8a2eefed7a5be5fd3fa44cb44a53cc1e608483

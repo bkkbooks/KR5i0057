@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0057/CK-KZ-jye/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東園語錄東園語錄總序江源之北有觀焉觀之東偏其先空壤也陳子淸郭子銘起構數楹樓閣閒厰陶子復於墻陰隙地樹以杉柏楠樟等木得土之宜菁葱暢茂饒子澤又購羣花植其中曡石成山鑿土爲沼足勾留也至於遠山之環抱近水之朝宗則又披圖可覽不復再贅吾屢至於斯與諸子訂筆墨緣救弊補偏引於至道復念牖民覺世吾之志願常降言以示勸戒諸子錄而藏諸篋固請釐定題曰東園語錄蓋以誌千載之良會也後之遊東園者曷其三復斯文
+  hash: sha256:0cb1cc30164add57b608fce93f0e0d27922a7c11254f358fc6ecfb27d91d0e42
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-KZ_KR5i0057_01p001a}
+metadata:
+  title: 東園語錄
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:53:59.367453'
+  source:
+    repository: kanripo
+    path: KR5i0057/KR5i0057_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:6cbffa25a0b834242e148327abf126996ca66aca3e16de9effca4ce446d011e3

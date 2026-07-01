@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0057/CK-KZ/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東園語錄
+  hash: sha256:08cb1c5a9c7c429bca0ebb6863747f7b9386054646e707004dba1bb18bb5cd09
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-KZ_KR5i0057_03p001a}
+metadata:
+  title: 東園語錄
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+  date: '2015-08-29 17:53:59.367453'
+  source:
+    repository: kanripo
+    path: KR5i0057/KR5i0057_003.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:f70b3d0410ea3f5fb903ee3ea23b9cbf7f40e7557bdd175a840af70f7c003262

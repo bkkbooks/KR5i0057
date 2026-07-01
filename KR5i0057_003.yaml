@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5i0057/krp/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東園語録
+  hash: sha256:a247ecf830414c3d07aff00dd239e55853253ee800825d7637b36cd011cbb754
+  markers:
+  - {type: page-break, offset: 4, content: '', id: CK-KZ_KR5i0057_03p001a}
+metadata:
+  title: 東園語錄
+  edition:
+    short: krp
+  base_edition: CK-KZ
+  date: '2015-08-29 17:53:59.367453'
+  source:
+    repository: kanripo
+    path: KR5i0057/KR5i0057_003.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:ea27cbe3c0b328e6fa8fa65563cb7d93d65b535206db0f6d34b4d97e2c063a91

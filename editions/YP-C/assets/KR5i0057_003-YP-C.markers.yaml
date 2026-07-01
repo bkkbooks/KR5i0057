@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR5i0057/YP-C/v1/markers/3
+seq: 3
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0057_YP-C_003-bkkkrnewl1}
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5i0057_YP-C_003-bkkkrnewl2}
+  - {type: line-break, offset: 0, content: '', id: CK-KZ_KR5i0057_02p009b01}
+  - {type: 'kr:newline', offset: 1, content: '
+
+      ', id: KR5i0057_YP-C_003-bkkkrnewl3}
+  back: []
+hash: sha256:f8e279c45b6aa732b05c3f6cbde6623c6e74b9f71613d7dbe31aa5844fa9ea9d
