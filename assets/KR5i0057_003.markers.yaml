@@ -21,6 +21,7 @@ markers:
   - {type: 'kr:non-cjk', offset: 0, content: '#+TITLE:', id: KR5i0057_krp_003-bkkkrnonc4}
   - {type: variant, offset: 0, length: 4, content: 東園語錄, YP-C: 序}
   - {type: page-break, offset: 0, content: '', id: CK-KZ_KR5i0057_02p009b}
+  - {type: substitution, offset: 3, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: 'kr:non-cjk', offset: 4, content: Dongyuan, id: KR5i0057_krp_003-bkkkrnonc5}
   - {type: 'kr:non-cjk', offset: 4, content: Yulu, id: KR5i0057_krp_003-bkkkrnonc6}
   - {type: 'kr:newline', offset: 4, content: '
@@ -277,4 +278,4 @@ markers:
 
       ', id: KR5i0057_krp_003-bkkkrnewl85}
   back: []
-hash: sha256:b13c541562069dbcbe873a96a1fa935e308e4882bcf37275dc7ffb824fe06459
+hash: sha256:d828cc95c3af41966e64b50f3eb6c6ba25ec64df1dc73d630fbd6ae6fc34e54e
